@@ -24,6 +24,7 @@
 <!-- About me 关于我 -->
 ### 🤺 About Me
 
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <p>&emsp;&emsp;天道运而无所积，故万物生!</p>
 <p>&emsp;&emsp;第一次加入开源大家庭，请多指教</p>
@@ -36,6 +37,8 @@
 
 <!-- 近期博客 -->
 ### 📃 Recent Blog
+
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />
 
 <!-- START_SECTION:blog -->
 * <a href='https://blog.sunguoqi.com/archives/ohmyposh' target='_blank'>Oh My Posh | Windows Terminal 美化指南</a> - 2023-07-15

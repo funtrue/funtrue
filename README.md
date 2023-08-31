@@ -17,6 +17,17 @@
 </div>
 
 <div align="center" >
+💪 正在学习
+
+![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
+![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
+![MongoDB Badge](https://img.shields.io/badge/Golang-47A248?logo=Go&logoColor=fff&style=flat)
+![Django Badge](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat)
+![Mysql Badge](https://img.shields.io/badge/Mysql-A8B9CC?logo=Mysql&logoColor=fff&style=flat)
+![redis Badge](https://img.shields.io/badge/redis-00599C?logo=redis&logoColor=fff&style=flat)
+![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
+![Nginx Badge](https://img.shields.io/badge/Nginx-FCC24?logo=Nginx&logoColor=456&style=flat)
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
 <tr><td>

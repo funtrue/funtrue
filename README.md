@@ -28,6 +28,10 @@
 ![redis Badge](https://img.shields.io/badge/redis-00599C?logo=redis&logoColor=fff&style=flat)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
 ![Nginx Badge](https://img.shields.io/badge/Nginx-FCC24?logo=Nginx&logoColor=456&style=flat)
+
+<!-- programming tool icon 编程工具图标 -->
+<img src="https://skillicons.dev/icons?i=vscode,c,cpp,python,vue,react,django,nginx,mysql,redis,golang,git" /><br>
+
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
 <tr><td>
